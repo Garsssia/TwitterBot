@@ -39,7 +39,7 @@ text = "Este mensaje no es directo"
 #API.send_direct_message(id, text)
 
 
-
+id = xxxxxxxxxxxxxxxxxx
 text = "te estoy enviando esto desde la API, Lo he conseguido"
 #API.send_direct_message(id, text)
 
